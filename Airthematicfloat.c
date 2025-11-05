@@ -1,3 +1,4 @@
+
 #include<stdio.h>
 int main () {
     int a;
@@ -13,3 +14,4 @@ printf("b/a = %f\n", b/a);
 
 
 }
+
