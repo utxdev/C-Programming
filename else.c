@@ -18,6 +18,10 @@ int main() {
     if(age>=18) {
         printf("You are eligible to vote.\n");
     }
+
+else if(age>10) {
+        printf("You are between 10 to 18, so you can vote for kids\n");
+    }
     else {
         printf("You are not eligible to vote.\n");
     }
